@@ -21,19 +21,18 @@ Console based implementation of the popular game tetris using C++.
 - [@usmanawan50](https://github.com/usmanawan50/usmanawan50.git)
 
 
-## Deployment on Windows with MingW
+## Deployment(on Windows) 
 
-To deploy this project download source.cpp, open windows command line and move to the directory where the file is present. Then run: 
+To deploy this project download source.cpp, open windows command line and move to the directory where the file is present. Then run command according to your compiler:
 
+### MingW
 ```bash
   g++ source.cpp -o output.exe; ./output.exe
 ```
-Run the relevant command if you have another compiler.
 
 ### Clang++
 ```bash
   clang++ -std=c++17 -Wall -Wextra -o output source.cpp && ./output
-
 ```
 
 
@@ -43,7 +42,7 @@ Run the relevant command if you have another compiler.
 
 #### Controls:
 
-Arrow keys for: left, right, down
+Arrow keys for: left, right, down.<br>
 Z: change orientation
 
 #### Why my console screen looks wonky?
