@@ -47,7 +47,7 @@ Z: change orientation
 
 #### Why my console screen looks wonky?
 
-The application was built using Microsoft Visual Studio. You can adjust the screen parameters for your console sccreen from the code.
+The application was built using Microsoft Visual Studio. You can adjust the screen parameters for your console screen from the code.
 
 
 ## Usage/Examples
