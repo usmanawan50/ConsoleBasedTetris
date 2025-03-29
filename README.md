@@ -53,7 +53,7 @@ The application was built using Microsoft Visual Studio. You can adjust the scre
 ## Usage/Examples
 
 ![Demo GIF](output.gif)
-(Microsoft Visual Studio)
+<br>(Microsoft Visual Studio)
 
 
 
